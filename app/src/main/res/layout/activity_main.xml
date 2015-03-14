@@ -4,5 +4,10 @@
 				android:layout_height="match_parent"
 				tools:context=".MainActivity">
 
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+
 
 </RelativeLayout>
